@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="ws_1431957787" name="Marine Empowerment" description="Albion Skunk can now store 75 (+25) Marines." version="101" save="false" author="Vectorial1024" date="2018-08-09" sync="false" lastupdate="1533786339">
+  <dependency id="ws_684926232" optional="true" name="Simoom's Lantern - Ultimate Cheat Menu"/>
+</content>

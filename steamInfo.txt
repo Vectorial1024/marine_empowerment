@@ -1,0 +1,68 @@
+Mod Plans:
+
+Fog Clearance: no more fogs that slow down gameplay! Should significantly improve performance
+Untinted Space: visuals only; removes nebulae colors and LODs that are applied to zones to alter their color; very marginal expected performance boosts
+Chill, Super Highway: undoes the speed boost to vanilla highways after the 4.0 patch (just look at Fields of Opportunity; they have the original pre-4.0 super highways); Home of Light Super Highways are not affected
+Marine Empowerment: Albion Skunk can now store 75 (+25 // +50%) Marines
+Post-Campaign Deployment: plot-only stations are now also built in non-plot gamestarts
+Additional Drone Types: adds in "particle-repeater" drone (Penetrative), and an experimental "sunstalker" drone (Pursuer)
+Missile Empowerment: Albion Skunk can now store 240 (+90 // +60%) Missiles 
+
+
+
+
+
+This mod increases the number of Marines that the Albion Skunk can store from 50 to 75. (+25 capacity)
+
+Perhaps sometimes you want to capture ships, but your 100-something boarding squad can hardly ever touch the 300-something XL military ship. This mod mitigates that. By providing a larger capacity for Marines, hopefully your boarding strength can be increased to the 200s, or even to the low 300s.
+
+Technical info: with a maxed Marine Officer and a full squad of 75 Elite Marines, the maximum boarding strength should be capped at [b]378.75[/b].
+
+Incompatibilities
+This is just a simple patch mod with one file and one patch opeartion. It should work with any mod out there; I am not aware of any other mods that modify the storage modules of the Albion Skunk.
+
+Applicable Game Versions
+Because of the simplicity of this mod, I boldly assume that this mod can work with [b]any game version[/b], from v1.00 up to v4.30.
+
+Save-Game Safety
+Can be removed anytime. Over-limit Marines will not be removed, but then you won't be able to replenish the over-limit KIA Marines.
+
+Happy boarding!
+
+陸戰隊員擴軍
+
+這個mod把阿爾比恩臭鼬的陸戰隊員人數上限從50增加到75。（+25容量）
+
+也許有時你想要登艦，但你攻擊力100多的登艦隊卻難以登上300多防禦力的XL船艦。這個mod緩解了這一點。把陸戰隊員人數上限提升，可有望把登艦攻擊力提升至200多，甚至300多。
+
+技術資料：一名滿等的陸戰隊士官加上全隊75名陸戰隊精英，應可有378.75的登艦攻擊力。
+
+兼容性
+這是一個簡單的補丁mod，只包含一個文件和一個補丁操作。它應該適用於出面的任何mod；至少我未見識過任何其他mod會修改阿爾比恩臭鼬的存儲模塊。
+
+適用的遊戲版本
+由於這個mod相當簡單，我可以大膽地假設這個mod可以與[b]任何遊戲版本[/ b]一起使用，從v1.00到v4.30。
+
+遊戲存檔兼容
+可以隨時刪除。超限陸戰隊員將不會被移除，但是當然地你將無法補充超限後陣亡的陸戰隊員。
+
+祝登艦快樂！
+
+陆战队员扩军
+
+这个mod把阿尔比恩臭鼬的陆战队员人数上限从50增加到75。 （+25容量）
+
+也许有时你想要登舰，但你攻击力100多的登舰队却难以登上300多防御力的XL船舰。这个mod缓解了这一点。把陆战队员人数上限提升，可有望把登舰攻击力提升至200多，甚至300多。
+
+技术资料：一名满等的陆战队士官加上全队75名陆战队精英，应可有378.75的登舰攻击力。
+
+兼容性
+这是一个简单的补丁mod，只包含一个文件和一个补丁操作。它应该适用于出面的任何mod；至少我未见识过任何其他mod会修改阿尔比恩臭鼬的存储模块。
+
+适用的游戏版本
+由于这个mod相当简单，我可以大胆地假设这个mod可以与[b]任何游戏版本[/ b]一起使用，从v1.00到v4.30。
+
+游戏存档兼容
+可以随时删除。超限陆战队员将不会被移除，但是当然地你将无法补充超限后阵亡的陆战队员。
+
+祝登舰快乐！

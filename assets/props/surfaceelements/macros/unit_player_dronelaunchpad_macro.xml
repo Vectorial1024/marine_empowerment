@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+	<replace sel="/macros/macro[@name='unit_player_dronelaunchpad_macro']/properties/storage[@capacity='50']/@capacity">75</replace>
+	
+	<!-- Simooms Lantern compatibility test -->
+	<replace sel="/macros/macro[@name='unit_player_dronelaunchpad_macro']/properties/storage[@capacity='150']/@capacity">75</replace>
+</diff>
